@@ -1,13 +1,13 @@
 <!--Heading-->
 
-   # Requerimiento candidatos recursos humanos: ![unbosque](Logo.png  "https://www.unbosque.edu.co")  
+   # Requerimiento candidatos recursos humanos: ![unbosque](https://postimg.cc/mzRcmFTv  "Unibosque")  
 
 ## *Programa escrito en java y creado para generar y manipular una lista de candidatos*
  >software creado por Santiago Giraldo Y cristian Escamilla 
 ---
 
 
-![Vista](company.png "vista programa")
+![Vista](https://postimg.cc/9rSrvkWt "vista programa")
 
 Se genera un programa capaz de gestionar una lista de candidatos, dicha lista puede ser utilizada y manipulada por el area de RRHH de una empresa para administrar los datos de los posibles aspirantes a los diversos cargos de la empresa.
 
@@ -38,7 +38,7 @@ Se genera un programa capaz de gestionar una lista de candidatos, dicha lista pu
 ---
 Todos los datos de los candidatos inscritos en el programa serán guardados exitosamente mediante la persistencia de los archivos.
 
-![Archivo](persistencia.png "archivo")
+![Archivo](https://postimg.cc/4YkXvRfM "archivo")
 
 
 
@@ -46,7 +46,7 @@ Todos los datos de los candidatos inscritos en el programa serán guardados exit
 # Interacción 
 La interaccion se realiza mediante un metodo que contiene JOptionPane, los cuales envian la informacion para su posterior procesamiento y respuesta.
 
-![Panel](panel.png "JOption")
+![Panel](https://postimg.cc/GHYCmgFj "JOption")
 
 # Metodos del programa
 
