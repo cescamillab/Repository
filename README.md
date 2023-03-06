@@ -1,5 +1,6 @@
 <!--Heading-->
-
+	
+   # Cristian Escamilla - Santiago Giraldo
    # Requerimiento candidatos recursos humanos:  [![Logo.png](https://i.postimg.cc/0QKp2pFy/Logo.png)](https://postimg.cc/mzRcmFTv)
 
 ## *Programa escrito en java y creado para generar y manipular una lista de candidatos*
